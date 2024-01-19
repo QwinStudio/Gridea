@@ -1,0 +1,9 @@
+/* styles.css */
+
+body {
+    font-family: 'Josefin Sans', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Sans', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+    /* 其他样式设置，比如颜色、大小等 */
